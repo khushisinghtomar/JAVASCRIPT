@@ -1,0 +1,9 @@
+const details = {
+    name : " khushi ",
+    city : " indore",
+    grade : "section_B"
+}
+
+const newplace = city
+const result = details.newplace
+console.log (reuslt)
